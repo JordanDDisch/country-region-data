@@ -990,6 +990,11 @@
         }]
     },
     {
+        "countryName": "Ascension Island",
+        "countryShortCode": "AC",
+        "regions": []
+    },
+    {
         "countryName": "Australia",
         "countryShortCode": "AU",
         "regions": [{
@@ -2707,6 +2712,11 @@
         ]
     },
     {
+        "countryName": "Canary Islands",
+        "countryShortCode": "IC",
+        "regions": []
+    },
+    {
         "countryName": "Cape Verde",
         "countryShortCode": "CV",
         "regions": [{
@@ -2888,6 +2898,11 @@
                 "shortCode": "VK"
             }
         ]
+    },
+    {
+        "countryName": "Ceuta & Melilla",
+        "countryShortCode": "EA",
+        "regions": []
     },
     {
         "countryName": "Chad",
@@ -3199,6 +3214,11 @@
             "name": "Christmas Island",
             "shortCode": "CX"
         }]
+    },
+    {
+        "countryName": "Clipperton Island",
+        "countryShortCode": "CP",
+        "regions": []
     },
     {
         "countryName": "Cocos (Keeling) Islands",
@@ -3960,6 +3980,11 @@
                 "shortCode": "FO-05"
             }
         ]
+    },
+    {
+        "countryName": "Diego Garcia",
+        "countryShortCode": "DG",
+        "regions": []
     },
     {
         "countryName": "Djibouti",
@@ -5501,10 +5526,10 @@
         ]
     },
     {
-        "countryName": "Heard Island and McDonald Islands",
+        "countryName": "Heard & McDonald Islands",
         "countryShortCode": "HM",
         "regions": [{
-            "name": "Heard Island and McDonald Islands"
+            "name": "Heard & McDonald Islands"
         }]
     },
     {
@@ -12856,21 +12881,9 @@
         ]
     },
     {
-        "countryName": "Saint Helena, Ascension and Tristan da Cunha",
+        "countryName": "Saint Helena",
         "countryShortCode": "SH",
-        "regions": [{
-                "name": "Ascension",
-                "shortCode": "AC"
-            },
-            {
-                "name": "Saint Helena",
-                "shortCode": "HL"
-            },
-            {
-                "name": "Tristan da Cunha",
-                "shortCode": "TA"
-            }
-        ]
+        "regions": []
     },
     {
         "countryName": "Saint Kitts and Nevis",
@@ -14959,6 +14972,11 @@
                 "shortCode": "WA"
             }
         ]
+    },
+    {
+        "countryName": "Svalbard & Jan Mayen",
+        "countryShortCode": "SZ",
+        "regions": []
     },
     {
         "countryName": "Swaziland",
