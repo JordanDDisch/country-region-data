@@ -3476,7 +3476,7 @@ return [
     ]
   },
   {
-    "countryName": "Congo, Republic of the (Brazzaville)",
+    "countryName": "Congo - Kinshasa",
     "countryShortCode": "CG",
     "regions": [
       {
@@ -3530,7 +3530,7 @@ return [
     ]
   },
   {
-    "countryName": "Congo, the Democratic Republic of the (Kinshasa)",
+    "countryName": "Congo - Brazzaville",
     "countryShortCode": "CD",
     "regions": [
       {
@@ -15240,7 +15240,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "Swaziland",
+    "countryName": "Eswatini",
     "countryShortCode": "SZ",
     "regions": [
       {
