@@ -865,99 +865,99 @@ return [
     "regions": [
       {
         "name": "Buenos Aires",
-        "shortCode": "B"
-      },
-      {
-        "name": "Capital Federal",
-        "shortCode": "C"
+        "shortCode": "Buenos Aires"
       },
       {
         "name": "Catamarca",
-        "shortCode": "K"
+        "shortCode": "Catamarca"
       },
       {
         "name": "Chaco",
-        "shortCode": "H"
+        "shortCode": "Chaco"
       },
       {
         "name": "Chubut",
-        "shortCode": "U"
+        "shortCode": "Chubut"
+      },
+      {
+        "name": "Ciudad Autónoma de Buenos Aire",
+        "shortCode": "Ciudad Autónoma de Buenos Aire"
       },
       {
         "name": "Córdoba",
-        "shortCode": "X"
+        "shortCode": "Córdoba"
       },
       {
         "name": "Corrientes",
-        "shortCode": "W"
+        "shortCode": "Corrientes"
       },
       {
         "name": "Entre Ríos",
-        "shortCode": "E"
+        "shortCode": "Entre Ríos"
       },
       {
         "name": "Formosa",
-        "shortCode": "P"
+        "shortCode": "Formosa"
       },
       {
         "name": "Jujuy",
-        "shortCode": "Y"
+        "shortCode": "Jujuy"
       },
       {
         "name": "La Pampa",
-        "shortCode": "L"
+        "shortCode": "La Pampa"
       },
       {
         "name": "La Rioja",
-        "shortCode": "F"
+        "shortCode": "La Rioja"
       },
       {
         "name": "Mendoza",
-        "shortCode": "M"
+        "shortCode": "Mendoza"
       },
       {
         "name": "Misiones",
-        "shortCode": "N"
+        "shortCode": "Misiones"
       },
       {
         "name": "Neuquén",
-        "shortCode": "Q"
+        "shortCode": "Neuquén"
       },
       {
         "name": "Río Negro",
-        "shortCode": "R"
+        "shortCode": "Río Negro"
       },
       {
         "name": "Salta",
-        "shortCode": "A"
+        "shortCode": "Salta"
       },
       {
         "name": "San Juan",
-        "shortCode": "J"
+        "shortCode": "San Juan"
       },
       {
         "name": "San Luis",
-        "shortCode": "D"
+        "shortCode": "San Luis"
       },
       {
         "name": "Santa Cruz",
-        "shortCode": "Z"
+        "shortCode": "Santa Cruz"
       },
       {
         "name": "Santa Fe",
-        "shortCode": "S"
+        "shortCode": "Santa Fe"
       },
       {
         "name": "Santiago del Estero",
-        "shortCode": "G"
+        "shortCode": "Santiago del Estero"
       },
       {
         "name": "Tierra del Fuego",
-        "shortCode": "V"
+        "shortCode": "Tierra del Fuego"
       },
       {
         "name": "Tucumán",
-        "shortCode": "T"
+        "shortCode": "Tucumán"
       }
     ]
   },
@@ -1595,43 +1595,43 @@ return [
         "shortCode": "01"
       },
       {
-        "name": "Saint Andrew",
+        "name": "St. Andrew",
         "shortCode": "02"
       },
       {
-        "name": "Saint George",
+        "name": "St. George",
         "shortCode": "03"
       },
       {
-        "name": "Saint James",
+        "name": "St. James",
         "shortCode": "04"
       },
       {
-        "name": "Saint John",
+        "name": "St. John",
         "shortCode": "05"
       },
       {
-        "name": "Saint Joseph",
+        "name": "St. Joseph",
         "shortCode": "06"
       },
       {
-        "name": "Saint Lucy",
+        "name": "St. Lucy",
         "shortCode": "07"
       },
       {
-        "name": "Saint Michael",
+        "name": "St. Michael",
         "shortCode": "08"
       },
       {
-        "name": "Saint Peter",
+        "name": "St. Peter",
         "shortCode": "09"
       },
       {
-        "name": "Saint Philip",
+        "name": "St. Philip",
         "shortCode": "10"
       },
       {
-        "name": "Saint Thomas",
+        "name": "St. Thomas",
         "shortCode": "11"
       }
     ]
@@ -4101,43 +4101,43 @@ return [
     "countryShortCode": "DM",
     "regions": [
       {
-        "name": "Saint Andrew Parish",
+        "name": "St. Andrew Parish",
         "shortCode": "02"
       },
       {
-        "name": "Saint David Parish",
+        "name": "St. David Parish",
         "shortCode": "03"
       },
       {
-        "name": "Saint George Parish",
+        "name": "St. George Parish",
         "shortCode": "04"
       },
       {
-        "name": "Saint John Parish",
+        "name": "St. John Parish",
         "shortCode": "05"
       },
       {
-        "name": "Saint Joseph Parish",
+        "name": "St. Joseph Parish",
         "shortCode": "06"
       },
       {
-        "name": "Saint Luke Parish",
+        "name": "St. Luke Parish",
         "shortCode": "07"
       },
       {
-        "name": "Saint Mark Parish",
+        "name": "St. Mark Parish",
         "shortCode": "08"
       },
       {
-        "name": "Saint Patrick Parish",
+        "name": "St. Patrick Parish",
         "shortCode": "09"
       },
       {
-        "name": "Saint Paul Parish",
+        "name": "St. Paul Parish",
         "shortCode": "10"
       },
       {
-        "name": "Saint Peter Parish",
+        "name": "St. Peter Parish",
         "shortCode": "11"
       }
     ]
@@ -4873,15 +4873,15 @@ return [
         "shortCode": "PF"
       },
       {
-        "name": "Saint-Pierre-et-Miquelon",
+        "name": "St.-Pierre-et-Miquelon",
         "shortCode": "PM"
       },
       {
-        "name": "Saint Barthélemy",
+        "name": "St. Barthélemy",
         "shortCode": "BL"
       },
       {
-        "name": "Saint Martin",
+        "name": "St. Martin",
         "shortCode": "MF"
       },
       {
@@ -4942,7 +4942,7 @@ return [
         "name": "Iles Kerguelen"
       },
       {
-        "name": "Iles Saint-Paul et Amsterdam"
+        "name": "Iles St.-Paul et Amsterdam"
       }
     ]
   },
@@ -5303,27 +5303,27 @@ return [
     "countryShortCode": "GD",
     "regions": [
       {
-        "name": "Saint Andrew",
+        "name": "St. Andrew",
         "shortCode": "01"
       },
       {
-        "name": "Saint David",
+        "name": "St. David",
         "shortCode": "02"
       },
       {
-        "name": "Saint George",
+        "name": "St. George",
         "shortCode": "03"
       },
       {
-        "name": "Saint John",
+        "name": "St. John",
         "shortCode": "04"
       },
       {
-        "name": "Saint Mark",
+        "name": "St. Mark",
         "shortCode": "05"
       },
       {
-        "name": "Saint Patrick",
+        "name": "St. Patrick",
         "shortCode": "06"
       },
       {
@@ -6731,31 +6731,31 @@ return [
         "shortCode": "04"
       },
       {
-        "name": "Saint Andrew",
+        "name": "St. Andrew",
         "shortCode": "02"
       },
       {
-        "name": "Saint Ann",
+        "name": "St. Ann",
         "shortCode": "06"
       },
       {
-        "name": "Saint Catherine",
+        "name": "St. Catherine",
         "shortCode": "14"
       },
       {
-        "name": "Saint Elizabeth",
+        "name": "St. Elizabeth",
         "shortCode": "11"
       },
       {
-        "name": "Saint James",
+        "name": "St. James",
         "shortCode": "08"
       },
       {
-        "name": "Saint Mary",
+        "name": "St. Mary",
         "shortCode": "05"
       },
       {
-        "name": "Saint Thomas",
+        "name": "St. Thomas",
         "shortCode": "03"
       },
       {
@@ -10119,11 +10119,11 @@ return [
         "shortCode": "PH"
       },
       {
-        "name": "Saint-Roman",
+        "name": "St.-Roman",
         "shortCode": "SR"
       },
       {
-        "name": "Sainte-Dévote",
+        "name": "St.e-Dévote",
         "shortCode": "SD"
       },
       {
@@ -10329,13 +10329,13 @@ return [
     "countryShortCode": "MS",
     "regions": [
       {
-        "name": "Saint Anthony"
+        "name": "St. Anthony"
       },
       {
-        "name": "Saint Georges"
+        "name": "St. Georges"
       },
       {
-        "name": "Saint Peter's"
+        "name": "St. Peter's"
       }
     ]
   },
@@ -12972,7 +12972,7 @@ return [
         "shortCode": "RYA"
       },
       {
-        "name": "Saint Petersburg",
+        "name": "St. Petersburg",
         "shortCode": "SPE"
       },
       {
@@ -13100,7 +13100,7 @@ return [
     ]
   },
   {
-    "countryName": "Saint Barthélemy",
+    "countryName": "St. Barthélemy",
     "countryShortCode": "BL",
     "regions": [
       {
@@ -13114,16 +13114,16 @@ return [
     ]
   },
   {
-    "countryName": "Saint Helena",
+    "countryName": "St. Helena",
     "countryShortCode": "SH",
     "regions": []
   },
   {
-    "countryName": "Saint Kitts and Nevis",
+    "countryName": "St. Kitts and Nevis",
     "countryShortCode": "KN",
     "regions": [
       {
-        "name": "Saint Kitts",
+        "name": "St. Kitts",
         "shortCode": "K"
       },
       {
@@ -13133,7 +13133,7 @@ return [
     ]
   },
   {
-    "countryName": "Saint Lucia",
+    "countryName": "St. Lucia",
     "countryShortCode": "LC",
     "regions": [
       {
@@ -13179,28 +13179,28 @@ return [
     ]
   },
   {
-    "countryName": "Saint Martin",
+    "countryName": "St. Martin",
     "countryShortCode": "MF",
     "regions": [
       {
-        "name": "Saint Martin"
+        "name": "St. Martin"
       }
     ]
   },
   {
-    "countryName": "Saint Pierre and Miquelon",
+    "countryName": "St. Pierre and Miquelon",
     "countryShortCode": "PM",
     "regions": [
       {
         "name": "Miquelon"
       },
       {
-        "name": "Saint Pierre"
+        "name": "St. Pierre"
       }
     ]
   },
   {
-    "countryName": "Saint Vincent and the Grenadines",
+    "countryName": "St. Vincent and the Grenadines",
     "countryShortCode": "VC",
     "regions": [
       {
@@ -13212,19 +13212,19 @@ return [
         "shortCode": "06"
       },
       {
-        "name": "Saint Andrew",
+        "name": "St. Andrew",
         "shortCode": "02"
       },
       {
-        "name": "Saint David",
+        "name": "St. David",
         "shortCode": "03"
       },
       {
-        "name": "Saint George",
+        "name": "St. George",
         "shortCode": "04"
       },
       {
-        "name": "Saint Patrick",
+        "name": "St. Patrick",
         "shortCode": "05"
       }
     ]
@@ -13434,7 +13434,7 @@ return [
         "shortCode": "MT"
       },
       {
-        "name": "Saint-Louis",
+        "name": "St.-Louis",
         "shortCode": "SL"
       },
       {
@@ -13610,7 +13610,7 @@ return [
         "shortCode": "06"
       },
       {
-        "name": "Baie Sainte Anne",
+        "name": "Baie St.e Anne",
         "shortCode": "07"
       },
       {
@@ -13678,7 +13678,7 @@ return [
         "shortCode": "25"
       },
       {
-        "name": "Saint Louis",
+        "name": "St. Louis",
         "shortCode": "22"
       },
       {
