@@ -836,99 +836,99 @@
         "countryShortCode": "AR",
         "regions": [{
                 "name": "Buenos Aires",
-                "shortCode": "B"
-            },
-            {
-                "name": "Capital Federal",
-                "shortCode": "C"
+                "shortCode": "Buenos Aires"
             },
             {
                 "name": "Catamarca",
-                "shortCode": "K"
+                "shortCode": "Catamarca"
             },
             {
                 "name": "Chaco",
-                "shortCode": "H"
+                "shortCode": "Chaco"
             },
             {
                 "name": "Chubut",
-                "shortCode": "U"
+                "shortCode": "Chubut"
+            },
+            {
+                "name": "Ciudad Autónoma de Buenos Aire",
+                "shortCode": "Ciudad Autónoma de Buenos Aire"
             },
             {
                 "name": "Córdoba",
-                "shortCode": "X"
+                "shortCode": "Córdoba"
             },
             {
                 "name": "Corrientes",
-                "shortCode": "W"
+                "shortCode": "Corrientes"
             },
             {
                 "name": "Entre Ríos",
-                "shortCode": "E"
+                "shortCode": "Entre Ríos"
             },
             {
                 "name": "Formosa",
-                "shortCode": "P"
+                "shortCode": "Formosa"
             },
             {
                 "name": "Jujuy",
-                "shortCode": "Y"
+                "shortCode": "Jujuy"
             },
             {
                 "name": "La Pampa",
-                "shortCode": "L"
+                "shortCode": "La Pampa"
             },
             {
                 "name": "La Rioja",
-                "shortCode": "F"
+                "shortCode": "La Rioja"
             },
             {
                 "name": "Mendoza",
-                "shortCode": "M"
+                "shortCode": "Mendoza"
             },
             {
                 "name": "Misiones",
-                "shortCode": "N"
+                "shortCode": "Misiones"
             },
             {
                 "name": "Neuquén",
-                "shortCode": "Q"
+                "shortCode": "Neuquén"
             },
             {
                 "name": "Río Negro",
-                "shortCode": "R"
+                "shortCode": "Río Negro"
             },
             {
                 "name": "Salta",
-                "shortCode": "A"
+                "shortCode": "Salta"
             },
             {
                 "name": "San Juan",
-                "shortCode": "J"
+                "shortCode": "San Juan"
             },
             {
                 "name": "San Luis",
-                "shortCode": "D"
+                "shortCode": "San Luis"
             },
             {
                 "name": "Santa Cruz",
-                "shortCode": "Z"
+                "shortCode": "Santa Cruz"
             },
             {
                 "name": "Santa Fe",
-                "shortCode": "S"
+                "shortCode": "Santa Fe"
             },
             {
                 "name": "Santiago del Estero",
-                "shortCode": "G"
+                "shortCode": "Santiago del Estero"
             },
             {
                 "name": "Tierra del Fuego",
-                "shortCode": "V"
+                "shortCode": "Tierra del Fuego"
             },
             {
                 "name": "Tucumán",
-                "shortCode": "T"
+                "shortCode": "Tucumán"
             }
         ]
     },
